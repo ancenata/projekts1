@@ -1,0 +1,19 @@
+.teksts{
+display; flex;
+padding: 15px 32px 10px;
+margin: 8px 12px;
+background-color: #
+font-family: 'Courier New', Courier, monospace;
+font-size: 28px;
+}
+.arejaKaste {
+border-style: double;
+border-radius-5px
+border-colour: blue;
+border-width: medium;
+border-right-style: solid;
+border-left-style: solid;
+background-color: lightblue;
+padding: 10px 10px 10px 10px;
+margin: 50px 20px 50px 20px;
+}
