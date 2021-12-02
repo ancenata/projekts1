@@ -1,19 +1,19 @@
 .teksts{
-display; flex;
+display: flex;
 padding: 15px 32px 10px;
 margin: 8px 12px;
-background-color: #
-font-family: 'Courier New', Courier, monospace;
+background-color: #;
+font-family: 'Courier New', monospace;
 font-size: 28px;
 }
 .arejaKaste {
 border-style: double;
-border-radius-5px
-border-colour: blue;
+border-radius-5px;
+border-colour: #/zils/;
 border-width: medium;
 border-right-style: solid;
 border-left-style: solid;
-background-color: lightblue;
+background-color: /gaisi zils/;
 padding: 10px 10px 10px 10px;
 margin: 50px 20px 50px 20px;
 }
