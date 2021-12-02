@@ -24,6 +24,8 @@ margin: 50px 20px 50px 20px;
   border-width: medium;
   border-radius: 10px:;
   padding: 10px 10px 10px 10px;
+  border: solid;
+  background-color: #030B6B;
 }
 .textkaste{
 border-style: solid;
