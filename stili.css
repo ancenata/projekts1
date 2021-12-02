@@ -17,6 +17,10 @@ background-color: #287BC6;
 padding: 10px 10px 10px 10px;
 margin: 50px 20px 50px 20px;
 }
-.heading {
-  colour:  #FFFF00;
-  font-family: 
+.butt{
+  margin-left: 150px;
+  border-width: medium;
+  border-radius: 10px:;
+  padding: 10px 10px 10px 10px;
+  margin: 50px 20px 50px 20px;
+}
