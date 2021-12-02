@@ -27,6 +27,21 @@ margin: 50px 20px 50px 20px;
   border: solid;
   background-color: #030B6B;
 }
+.butt:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.butt:hover{
+  padding-right: 25px;
+}
+.butt:hover:after {
+  opacity: 1;
+  right: 0;
+}
 .textkaste{
 border-style: solid;
 width: 195px;
